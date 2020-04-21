@@ -119,4 +119,6 @@ dist/
 tmp/
 temp/
 
+user_data/
+
 # End of https://www.gitignore.io/api/node,linux
